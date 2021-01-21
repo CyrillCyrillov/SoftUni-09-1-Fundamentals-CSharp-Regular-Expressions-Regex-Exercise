@@ -1,0 +1,13 @@
+C:\Users\Kiril\source\repos\09_Exercise\Task04_Star_Enigma\bin\Debug\netcoreapp3.1\Task04_Star_Enigma.exe
+C:\Users\Kiril\source\repos\09_Exercise\Task04_Star_Enigma\bin\Debug\netcoreapp3.1\Task04_Star_Enigma.deps.json
+C:\Users\Kiril\source\repos\09_Exercise\Task04_Star_Enigma\bin\Debug\netcoreapp3.1\Task04_Star_Enigma.runtimeconfig.json
+C:\Users\Kiril\source\repos\09_Exercise\Task04_Star_Enigma\bin\Debug\netcoreapp3.1\Task04_Star_Enigma.runtimeconfig.dev.json
+C:\Users\Kiril\source\repos\09_Exercise\Task04_Star_Enigma\bin\Debug\netcoreapp3.1\Task04_Star_Enigma.dll
+C:\Users\Kiril\source\repos\09_Exercise\Task04_Star_Enigma\bin\Debug\netcoreapp3.1\Task04_Star_Enigma.pdb
+C:\Users\Kiril\source\repos\09_Exercise\Task04_Star_Enigma\obj\Debug\netcoreapp3.1\Task04_Star_Enigma.csprojAssemblyReference.cache
+C:\Users\Kiril\source\repos\09_Exercise\Task04_Star_Enigma\obj\Debug\netcoreapp3.1\Task04_Star_Enigma.AssemblyInfoInputs.cache
+C:\Users\Kiril\source\repos\09_Exercise\Task04_Star_Enigma\obj\Debug\netcoreapp3.1\Task04_Star_Enigma.AssemblyInfo.cs
+C:\Users\Kiril\source\repos\09_Exercise\Task04_Star_Enigma\obj\Debug\netcoreapp3.1\Task04_Star_Enigma.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\source\repos\09_Exercise\Task04_Star_Enigma\obj\Debug\netcoreapp3.1\Task04_Star_Enigma.dll
+C:\Users\Kiril\source\repos\09_Exercise\Task04_Star_Enigma\obj\Debug\netcoreapp3.1\Task04_Star_Enigma.pdb
+C:\Users\Kiril\source\repos\09_Exercise\Task04_Star_Enigma\obj\Debug\netcoreapp3.1\Task04_Star_Enigma.genruntimeconfig.cache
