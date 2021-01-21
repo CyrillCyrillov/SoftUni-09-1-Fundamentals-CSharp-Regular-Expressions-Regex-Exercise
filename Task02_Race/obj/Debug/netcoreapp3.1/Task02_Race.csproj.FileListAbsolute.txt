@@ -1,0 +1,13 @@
+C:\Users\Kiril\source\repos\09_Exercise\Task02_Race\bin\Debug\netcoreapp3.1\Task02_Race.exe
+C:\Users\Kiril\source\repos\09_Exercise\Task02_Race\bin\Debug\netcoreapp3.1\Task02_Race.deps.json
+C:\Users\Kiril\source\repos\09_Exercise\Task02_Race\bin\Debug\netcoreapp3.1\Task02_Race.runtimeconfig.json
+C:\Users\Kiril\source\repos\09_Exercise\Task02_Race\bin\Debug\netcoreapp3.1\Task02_Race.runtimeconfig.dev.json
+C:\Users\Kiril\source\repos\09_Exercise\Task02_Race\bin\Debug\netcoreapp3.1\Task02_Race.dll
+C:\Users\Kiril\source\repos\09_Exercise\Task02_Race\bin\Debug\netcoreapp3.1\Task02_Race.pdb
+C:\Users\Kiril\source\repos\09_Exercise\Task02_Race\obj\Debug\netcoreapp3.1\Task02_Race.csprojAssemblyReference.cache
+C:\Users\Kiril\source\repos\09_Exercise\Task02_Race\obj\Debug\netcoreapp3.1\Task02_Race.AssemblyInfoInputs.cache
+C:\Users\Kiril\source\repos\09_Exercise\Task02_Race\obj\Debug\netcoreapp3.1\Task02_Race.AssemblyInfo.cs
+C:\Users\Kiril\source\repos\09_Exercise\Task02_Race\obj\Debug\netcoreapp3.1\Task02_Race.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\source\repos\09_Exercise\Task02_Race\obj\Debug\netcoreapp3.1\Task02_Race.dll
+C:\Users\Kiril\source\repos\09_Exercise\Task02_Race\obj\Debug\netcoreapp3.1\Task02_Race.pdb
+C:\Users\Kiril\source\repos\09_Exercise\Task02_Race\obj\Debug\netcoreapp3.1\Task02_Race.genruntimeconfig.cache
