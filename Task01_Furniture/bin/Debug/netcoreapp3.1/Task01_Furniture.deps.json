@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Task01_Furniture/1.0.0": {
+        "runtime": {
+          "Task01_Furniture.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Task01_Furniture/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\Kiril\source\repos\09_Exercise\09_Exercise\bin\Debug\netcoreapp3.1\Task01_Furniture.exe
+C:\Users\Kiril\source\repos\09_Exercise\09_Exercise\bin\Debug\netcoreapp3.1\Task01_Furniture.deps.json
+C:\Users\Kiril\source\repos\09_Exercise\09_Exercise\bin\Debug\netcoreapp3.1\Task01_Furniture.runtimeconfig.json
+C:\Users\Kiril\source\repos\09_Exercise\09_Exercise\bin\Debug\netcoreapp3.1\Task01_Furniture.runtimeconfig.dev.json
+C:\Users\Kiril\source\repos\09_Exercise\09_Exercise\bin\Debug\netcoreapp3.1\Task01_Furniture.dll
+C:\Users\Kiril\source\repos\09_Exercise\09_Exercise\bin\Debug\netcoreapp3.1\Task01_Furniture.pdb
+C:\Users\Kiril\source\repos\09_Exercise\09_Exercise\obj\Debug\netcoreapp3.1\Task01_Furniture.csprojAssemblyReference.cache
+C:\Users\Kiril\source\repos\09_Exercise\09_Exercise\obj\Debug\netcoreapp3.1\Task01_Furniture.AssemblyInfoInputs.cache
+C:\Users\Kiril\source\repos\09_Exercise\09_Exercise\obj\Debug\netcoreapp3.1\Task01_Furniture.AssemblyInfo.cs
+C:\Users\Kiril\source\repos\09_Exercise\09_Exercise\obj\Debug\netcoreapp3.1\Task01_Furniture.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\source\repos\09_Exercise\09_Exercise\obj\Debug\netcoreapp3.1\Task01_Furniture.dll
+C:\Users\Kiril\source\repos\09_Exercise\09_Exercise\obj\Debug\netcoreapp3.1\Task01_Furniture.pdb
+C:\Users\Kiril\source\repos\09_Exercise\09_Exercise\obj\Debug\netcoreapp3.1\Task01_Furniture.genruntimeconfig.cache
